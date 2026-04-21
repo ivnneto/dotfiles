@@ -1,2 +1,13 @@
 # dotfiles
-Personal dotfiles, configs &amp; dev notes — Ivan Neto
+
+> Personal dotfiles, configs & dev notes — Ivan Neto
+
+---
+
+## Structure
+
+```
+dotfiles/
+
+```
+
